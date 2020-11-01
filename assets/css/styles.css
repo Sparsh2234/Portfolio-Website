@@ -544,12 +544,12 @@ img{
   .bd-grid{
     margin-left: auto;
     margin-right: auto;
-    width: calc(100% - 2rem);
   }
 
   .awards-grid{
     margin-left: auto;
     margin-right: auto;
+    width: calc(100% - 50rem);
   }
 
   .home__img{
