@@ -276,6 +276,10 @@ img{
   align-content: center;
 }
 
+.general__container{
+  align-content: center;
+}
+
 
 .awards-grid{
        max-width: 768px;
