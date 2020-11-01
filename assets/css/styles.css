@@ -154,6 +154,7 @@ img{
     padding: 2rem;
     background-color: var(--second-color);
     transition: .5s;
+}
 
     .awards-grid{
            max-width: 768px;
@@ -164,7 +165,6 @@ img{
            margin-left: var(--mb-2);
            margin-right: var(--mb-2);;
     }
-  }
 }
 .nav__item{
   margin-bottom: var(--mb-4);
