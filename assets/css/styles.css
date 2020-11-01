@@ -278,7 +278,7 @@ img{
 
 
 .awards-grid{
-       max-width: 1024px;
+       max-width: 768px;
        display: grid;
        grid-template-columns: 100%;
        grid-column-gap: 2rem;
