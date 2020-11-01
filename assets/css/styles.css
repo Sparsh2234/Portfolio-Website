@@ -276,6 +276,17 @@ img{
   align-content: center;
 }
 
+
+.awards-grid{
+       max-width: 1024px;
+       display: grid;
+       grid-template-columns: 100%;
+       grid-column-gap: 2rem;
+       width: calc(100% - 2rem);
+       margin-left: var(--mb-2);
+       margin-right: var(--mb-2);;
+}
+
 .skills__specific{
   grid-template-columns: repeat(3,1fr);
   align-content: center;
@@ -549,7 +560,6 @@ img{
   .awards-grid{
     margin-left: auto;
     margin-right: auto;
-    width: calc(100% - 2rem);
   }
 
   .home__img{
