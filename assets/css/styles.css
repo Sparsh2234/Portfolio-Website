@@ -549,7 +549,7 @@ img{
   .awards-grid{
     margin-left: auto;
     margin-right: auto;
-    width: calc(100% - 50rem);
+    width: calc(100% - 2rem);
   }
 
   .home__img{
