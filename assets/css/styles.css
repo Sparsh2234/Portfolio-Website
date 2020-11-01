@@ -154,6 +154,16 @@ img{
     padding: 2rem;
     background-color: var(--second-color);
     transition: .5s;
+
+    .awards-grid{
+           max-width: 768px;
+           display: grid;
+           grid-template-columns: 100%;
+           grid-column-gap: 2rem;
+           width: calc(100% - 2rem);
+           margin-left: var(--mb-2);
+           margin-right: var(--mb-2);;
+    }
   }
 }
 .nav__item{
@@ -278,11 +288,6 @@ img{
 
 .general__container{
   align-content: center;
-}
-
-
-.awards-grid{
-       width: auto;
 }
 
 .skills__specific{
