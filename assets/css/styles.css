@@ -282,13 +282,7 @@ img{
 
 
 .awards-grid{
-       max-width: 768px;
-       display: grid;
-       grid-template-columns: 100%;
-       grid-column-gap: 2rem;
-       width: calc(100% - 2rem);
-       margin-left: var(--mb-2);
-       margin-right: var(--mb-2);;
+       width: auto;
 }
 
 .skills__specific{
