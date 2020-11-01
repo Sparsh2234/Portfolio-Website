@@ -116,7 +116,7 @@ img{
        display: grid;
        grid-template-columns: 100%;
        grid-column-gap: 2rem;
-       width: calc(100% - 80rem);
+       width: calc(100% - 50rem);
        margin-left: var(--mb-2);
        margin-right: var(--mb-2);;
 }
@@ -335,6 +335,17 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
+
+.awards__bar{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: #000000;
+  height: .25rem;
+  border-radius: .5rem;
+  z-index: var(--z-back);
+}
+
 .skills__html{
   width: 100%;
 }
@@ -479,7 +490,7 @@ img{
   }
 
   .awards__container{
-    grid-template-rows: repeat(10,1fr);
+    grid-template-rows: repeat(5,1fr);
     align-items: center;
     text-align: initial;
   }
