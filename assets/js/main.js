@@ -45,8 +45,6 @@ sr.reveal('.about__subtitle',{delay: 400});
 sr.reveal('.intern__subtitle',{delay: 400});
 sr.reveal('.about__text',{delay: 400});
 sr.reveal('.uni_name',{delay: 400});
-sr.reveal('.panel',{delay: 500});
-sr.reveal('.panel-group',{delay: 500});
 
 
 /*SCROLL SKILLS*/
