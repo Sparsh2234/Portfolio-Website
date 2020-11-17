@@ -50,6 +50,8 @@ sr.reveal('.uni_name',{delay: 400});
 /*SCROLL SKILLS*/
 sr.reveal('.skills__subtitle',{});
 sr.reveal('.skills__general_subtitle',{});
+sr.reveal('.projects_subtitle',{});
+sr.reveal('.projects_subtitle_hardware',{});
 sr.reveal('.skills__text',{});
 sr.reveal('.skills__data',{interval: 200});
 sr.reveal('.skills__traits',{interval: 2});

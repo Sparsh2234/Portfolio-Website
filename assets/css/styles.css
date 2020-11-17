@@ -314,6 +314,14 @@ img{
 .skills__general_subtitle{
        margin-bottom: var(--mb-2)
 }
+
+.projects_subtitle{
+       margin-bottom: var(--mb-2)
+}
+.projects_subtitle_hardware{
+       margin-bottom: var(--mb-2)
+}
+
 .skills__text{
   margin-bottom: var(--mb-4);
 }
@@ -554,6 +562,18 @@ img{
   .skills__general_subtitle{
        margin-top: 1.25px;
  }
+
+ .projects_subtitle{
+      margin-top: 1.25px;
+      margin-bottom: 10px;
+      text-align: left;
+}
+
+.projects_subtitle_hardware{
+    margin-top: var(--mb-6);
+    margin-bottom: 10px;
+    text-align: left;
+}
 
  .skills__text{
         margin-top: 20px;
