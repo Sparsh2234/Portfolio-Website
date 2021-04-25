@@ -55,6 +55,8 @@ sr.reveal('.projects_subtitle_hardware',{});
 sr.reveal('.skills__text',{});
 sr.reveal('.skills__data',{interval: 200});
 sr.reveal('.skills__traits',{interval: 2});
+sr.reveal('.ecs__box',{interval: 2});
+sr.reveal('.internship__card',{interval: 2});
 sr.reveal('.skills__traits__click',{interval: 2});
 sr.reveal('.skills__img',{delay: 600});
 
