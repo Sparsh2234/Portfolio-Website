@@ -344,7 +344,6 @@ img{
   justify-content: space-between;
   align-items: center;
   position: relative;
-  font-weight: var(--font-semi);
   padding: .5rem 1rem;
   margin-bottom: var(--mb-1);
   border-radius: .5rem;
@@ -368,7 +367,6 @@ img{
   justify-content: space-between;
   align-items: center;
   position: relative;
-  font-weight: var(--font-semi);
   padding: .5rem 1rem;
   margin-bottom: var(--mb-1);
   border-radius: .5rem;
